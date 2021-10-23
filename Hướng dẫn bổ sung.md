@@ -4,6 +4,10 @@ Ngoài cách tạo các tập tin DEM (Digital Elevation Model) theo hướng d�
 
 > https://bandolamnghiep.com/toan-bo-anh-dem-viet-nam
 
+Trang web chỉ cung cấp dữ liệu được chia đến cấp độ tỉnh, nếu mọi người cần cấp độ thấp hơn là huyện hoặc xã, thị trấn thì tải dữ liệu từ thư mục VietNam-GIS-Data, giải nén sử dụng làm "mask layer" khi cần cắt ảnh như hướng dẫn sử dụng QGIS
+
+Thư mục VietNam-Images là một số tỉnh đã được xử lý render bằng Blender và phối màu với công cụ chỉnh sửa ảnh, mọi người có thể dùng tham khảo
+
 #### 2.Xử lý ảnh sau khi đã render bằng Photoshop
 
 Sau khi ảnh đã render bằng Blender, mọi người có thể dùng Photoshop để tách nền, hiệu chỉnh màu theo các công cụ bổ sung để tạo ra bản đồ có màu sắc theo nhu cầu cá nhân
