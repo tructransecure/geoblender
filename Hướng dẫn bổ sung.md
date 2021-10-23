@@ -1,6 +1,6 @@
 #### 1.Hướng dẫn bổ sung cho các thao tác tạo bản đồ Việt Nam hoặc các tỉnh, thành phố
 
-Về các tập tin DEM (Digital Elevation Model) theo hướng dẫn nhập, cắt theo vùng trong bài viết tiếng Anh, mọi người có thể tải về các tập tin .tiff đã được phân chia sẵn thành các tỉnh, thành trong đường link sau
+Ngoài cách tạo các tập tin DEM (Digital Elevation Model) theo hướng dẫn nhập, cắt theo vùng trong bài viết tiếng Anh, mọi người có thể tải về các tập tin .tiff đã được phân chia sẵn thành các tỉnh, thành của Việt Nam trong đường link sau
 
 > https://bandolamnghiep.com/toan-bo-anh-dem-viet-nam
 
